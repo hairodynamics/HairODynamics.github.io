@@ -1,0 +1,21 @@
+#banner {
+  background-image: url(../../images/hair-bun.jpg);
+  background-size: cover;
+  background-position: center bottom; }
+
+.image.fit.center-image {
+  margin: auto;
+  position: relative;
+  left: 112%; }
+
+.developer {
+  text-align: center; }
+
+#footer {
+  padding: 1em 0 0 0;
+  background-color: #fff; }
+
+#footer .copyright {
+  margin: 10px; }
+
+/*# sourceMappingURL=hairodynamics.css.map */
