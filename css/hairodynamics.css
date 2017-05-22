@@ -1,0 +1,72 @@
+body{
+	font-family: 'Noto Sans', sans-serif;
+}
+.address h3{
+	padding-bottom: 15px;
+}
+.address p{
+	padding-top: 30px;
+}
+.banner{
+	background-image: url(../images/purp01.png);
+	background-position: center center;
+	background-size: cover;
+}
+
+.banner h1{
+	text-align: center;
+	position: relative;
+	top: 40%;
+	color: #fff;
+}
+.shop-img img{
+	width: 100%;
+}
+.row-break{
+	margin-bottom: 20px;
+}
+.hours ul{
+	padding: 0px;
+}
+.hours ul li{
+	border-bottom: 1px solid #ddd;
+	list-style: none;
+	padding: 10px 0px;
+}
+.hours ul li:last-child{
+	border: none;
+}
+iframe{
+	width: 100%;
+}
+.hairstyles .construction{
+	padding: 10% 0px;
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	font-size: 30px;
+}
+.hairstyles footer{
+	position: fixed;
+	bottom: 0px;
+}
+.modal-dialog{
+	width: 33%;
+	height: auto;
+	margin-left: 33%;
+}
+.carousel{
+	height: 85%;
+}
+.shopPhotos h1{
+	padding-bottom: 20px;
+}
+.navbar-inverse{
+	background-color: #f7f7f7;
+	border-color: #f7f7f7;
+}
+.navbar-inverse .navbar-nav>li>a:hover{
+ 	color: #434e60;
+}
+.navbar-inverse .navbar-brand:hover{
+	color: #434e60;
+}
