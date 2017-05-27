@@ -95,7 +95,10 @@ iframe{
 	border-color: #f7f7f7;
 }
 .navbar-inverse .navbar-brand{
-	
+	color: #;
+}
+.nav .navbar-nav .navbar-right{
+	color: #;
 }
 .navbar-inverse .navbar-nav>li>a:hover{
  	color: #434e60;
