@@ -1,0 +1,111 @@
+body{
+	font-family: 'Playfair Display', serif;
+}
+.address h3{
+	padding-bottom: 15px;
+}
+.address p{
+	padding-top: 30px;
+}
+.logo{
+	background-image: url(../images/purp01.png);
+	background-position: center center;
+	background-size: cover;
+}
+.banner{
+	text-align: center;
+	position: relative;
+	top: 40%;
+	color: #313131;
+	font-family: 'Playfair Display', serif;
+}
+.shop-img img{
+	width: 100%;
+}
+.shop-img img:hover{
+	cursor: pointer;
+}
+.services h2 span{
+	display: inline-block;
+	position: relative;
+	max-width: 80%;
+}
+.services h2 span::before{
+	right: 100%;
+	margin-right: 20px;
+}
+.services h2 span::before, .services h2 span::after{
+	content: "";
+	height: 1px;
+	margin-top: -1px;
+	background: #8400D3;
+	position: absolute;
+	top: 50%;
+	width: 350px;
+	display: block;
+}
+.services h2 span::after{
+	left: 100%;
+	margin-left: 20px;
+}
+.serviceOption{
+	font-size: 20px;
+}
+.row-break{
+	margin-bottom: 20px;
+}
+.hours{
+	position: relative;
+	top: 50%;
+}
+.hours ul{
+	padding: 0px;
+}
+.hours ul li{
+	border-bottom: 1px solid #ddd;
+	list-style: none;
+	padding: 10px 0px;
+}
+.hours ul li:last-child{
+	border: none;
+}
+iframe{
+	width: 100%;
+}
+.hairstyles .construction{
+	padding: 10% 0px;
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	font-size: 30px;
+}
+.hairstyles footer{
+	position: fixed;
+	bottom: 0px;
+}
+.modal-dialog{
+	width: 33%;
+	height: auto;
+	margin-left: 33%;
+}
+.carousel{
+	height: 85%;
+}
+.shopPhotos h2{
+	padding-bottom: 20px;
+}
+.navbar-inverse{
+	background-color: #f7f7f7;
+	border-color: #f7f7f7;
+}
+.navbar-inverse .navbar-brand{
+	color: #;
+}
+.nav .navbar-nav .navbar-right{
+	color: #;
+}
+.navbar-inverse .navbar-nav>li>a:hover{
+ 	color: #434e60;
+}
+.navbar-inverse .navbar-brand:hover{
+	color: #434e60;
+}
